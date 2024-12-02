@@ -13,7 +13,7 @@ This repository contains a Power BI dashboard that visualizes nuclear explosion 
   - Line Graph: Explosion trends over the years
 
 ## Dataset
-- Source: [Kaggle - Nuclear Data](https://www.kaggle.com/)
+- Source: [Kaggle - Nuclear Data](https://www.kaggle.com/datasets/utkarshx27/nuclear-explosions-data/data)
 - Time Range: 1945 to 2000
 
 ## Screenshots
