@@ -1,2 +1,28 @@
-# Nuclear-Data-Dashboard
-A Power BI dashboard visualizing nuclear explosion data from 1945 to 2000, highlighting trends, yields, and locations.
+# Nuclear Data Dashboard (1945-2000)
+
+This repository contains a Power BI dashboard that visualizes nuclear explosion data from 1945 to 2000. The dashboard highlights key insights, including explosion trends, highest yields, and global locations.
+
+## Key Features
+- **KPIs**: 
+  - Total Explosions
+  - Total Locations
+  - Highest Yield
+- **Visuals**:
+  - Pie Chart: Purpose of explosions
+  - Map: Global explosion locations
+  - Line Graph: Explosion trends over the years
+
+## Dataset
+- Source: [Kaggle - Nuclear Data](https://www.kaggle.com/)
+- Time Range: 1945 to 2000
+
+## Screenshots
+![Dashboard Screenshot](path/to/screenshot.png)
+
+## How to Use
+1. Download the `.pbix` file.
+2. Open it in Power BI Desktop.
+3. Explore the visuals and insights.
+
+## License
+This project is licensed under the MIT License.
