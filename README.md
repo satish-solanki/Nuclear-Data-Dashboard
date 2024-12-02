@@ -17,7 +17,7 @@ This repository contains a Power BI dashboard that visualizes nuclear explosion 
 - Time Range: 1945 to 2000
 
 ## Screenshots
-![Dashboard Screenshot](path/to/screenshot.png)
+![Dashboard Screenshot](https://github.com/satish-solanki/Nuclear-Data-Dashboard/blob/main/Screenshot%202024-12-02%20114837.png)
 
 ## How to Use
 1. Download the `.pbix` file.
